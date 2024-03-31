@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "httpsloomsuite-athens.com.html",
     "theme": {
       "name": "hotelm4",
       "title": "HotelM4",
@@ -1465,9 +1465,9 @@
     "httpsloomsuite-athens.com.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "Loom Suite Downtown Athens",
-        "header_custom": "",
+        "title": "Loom Suite Downtown Athens",
+        "meta_descr": "Vacation rental apartment ideal for couples down-town in Athens",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"hWj0mCP4WIw6_TWoL9V08_Zr3XE9w3DanwU4n8yxtdM\" />",
         "footer_custom": "",
         "html_before": ""
       },
